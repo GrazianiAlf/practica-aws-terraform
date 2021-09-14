@@ -1,1 +1,2 @@
-Práctica de Terraform
+Práctica de Terraform.
+Curso de DevOps 2103.
